@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ErmiMash/ErmiMash.github.io.git
+	branch = main
+[submodule "ErmiMash.github.io"]
+	path = ErmiMash.github.io
+	url = git@github.com:ErmiMash/ErmiMash.github.io.git
+	branch = main
